@@ -8,4 +8,4 @@ My name is Maxim, I am 25 years old. I work at a factory as a design engineer. I
 ## Education
 Baranavichy State University
 ## English level
-**≈3%**
+**А1**
