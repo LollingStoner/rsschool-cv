@@ -1,1 +1,73 @@
+.body {
+    max-width: 1024px;
+    margin: 3% auto;
+    font-family: 'Arial', sans-serif;
+    padding: 2rem;
+    background-color: #d3d3d3;
+}
 
+.main {
+    max-width: 1024px;
+    margin: auto;
+    border: black solid 1px;
+    background-color: #c5c5c5;
+}
+
+.imageChe {
+    width: 300px;
+    height: 300px;
+    margin: 0% auto;
+    border-radius: 50%;
+}
+
+.top {
+    float:left; 
+}
+
+.h1 {
+    font-size: 7em;
+    width: 640px;
+    height: 250px;
+    margin: 10px;
+    padding: 20px; 
+}
+
+.card {
+    margin-right: 182px;
+    margin-left: 182px;
+    padding: 0 150px 0 150px;
+}
+
+.block {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.text {
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+}
+
+.blockFooter {
+    background-color: #000000;
+    max-width: 1024px;
+    margin: 0 auto; 
+}
+
+.logoRS {
+    display:block;
+    margin:auto;
+    width: 100px;
+    height: 81px;
+}
+
+.Absolutely {
+    display:block;
+    margin:auto;
+    width: 200px;
+    height: 200px;
+}
